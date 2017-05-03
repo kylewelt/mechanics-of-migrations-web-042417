@@ -3,7 +3,7 @@
 
  # gem "rails"
 
- gem 'activerecord', :require => 'active_record'
+ gem 'activerecord', '~> 5.0.0', :require => 'active_record'
  gem 'rake'
  gem 'require_all'
  gem 'sqlite3'
